@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/lilo003/grbl.png?label=ready&title=Ready)](https://waffle.io/lilo003/grbl)
 ![GitHub Logo](/doc/media/Grbl Logo 250px.png)
 
 
